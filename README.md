@@ -48,8 +48,9 @@ flutter run
 
 <p align="center">
   <img src="https://github.com/afluxmhd/reminder-app/assets/93920274/8e1d8750-6a6f-4677-8bfc-26c988558656" width="24%" />
-  
+  <img src="https://github.com/afluxmhd/reminder-app/assets/93920274/dc30d3b9-54cd-4eac-84e3-707bf5edc4fa" width="24%" />
 </p>
+
 
 
 
